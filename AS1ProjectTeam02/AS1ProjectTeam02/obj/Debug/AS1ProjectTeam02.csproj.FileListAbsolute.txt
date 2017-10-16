@@ -1,0 +1,28 @@
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.exe.config
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.exe
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.pdb
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.csprojResolveAssemblyReference.cache
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.salesDatabase.resources
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.Properties.Resources.resources
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.csproj.GenerateResource.Cache
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.exe
+C:\Users\300265412\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.pdb
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.exe.config
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.exe
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.pdb
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.exe
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.pdb
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.csprojResolveAssemblyReference.cache
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.salesDatabase.resources
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.Properties.Resources.resources
+D:\Onedrive - ken.nans\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.csproj.GenerateResource.Cache
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.exe.config
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.exe
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\bin\Debug\AS1ProjectTeam02.pdb
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.csprojResolveAssemblyReference.cache
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.salesDatabase.resources
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.Properties.Resources.resources
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.csproj.GenerateResource.Cache
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.csproj.CoreCompileInputs.cache
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.exe
+C:\Users\kenna\OneDrive\CSIS 3540\Assignment1\AS1ProjectTeam02\AS1ProjectTeam02\obj\Debug\AS1ProjectTeam02.pdb
